@@ -4,4 +4,4 @@
 
 #FROM gcr.io/google_containers/test-webserver
 
-FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny:1.14.1
+FROM k8s.gcr.io/k8s-dns-dnsmasq-nanny:1.14.13
